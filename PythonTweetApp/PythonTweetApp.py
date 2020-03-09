@@ -12,10 +12,10 @@ from pandas.io.json import json_normalize
 #Declare variables that contains the user credentials to access Twitter API
 #You can get your own keys in https://apps.twitter.com/
 #--------------------------------------------------------------------------------
-aToken =       "58971104-mppPOEdI8ofDFdFso6VHGkAhpSCGprvxGPJGiGtuJ"
-aTokenSecret = "0dn4EbV9Tmtw2ZauNcC8mXzVNqRIm3iYwlzofNKgg23ch"
-cKey =         "xC9Esilp15bh5LRpW472c5cvt"
-cSecret =      "21H6DJydjdjosGPmwyZrHX0QgVXKfpUae04M9DTscRwGjg9lKR"
+aToken =       ""
+aTokenSecret = ""
+cKey =         ""
+cSecret =      ""
 
 #Define after how many twitts we do a insert in the data base.
 bufferSize = 5
